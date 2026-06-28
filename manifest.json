@@ -1,0 +1,9 @@
+{
+  "manifest_version": 3,
+  "name": "QA Page Inspector",
+  "version": "1.0",
+  "permissions": ["activeTab", "scripting"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
